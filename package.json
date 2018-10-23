@@ -1,0 +1,22 @@
+{
+  "name": "anusha",
+  "version": "1.0.0",
+  "description": "sample project to upload on jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anushagadepalli95/node-app.git"
+  },
+  "author": "anu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anushagadepalli95/node-app/issues"
+  },
+  "homepage": "https://github.com/anushagadepalli95/node-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
